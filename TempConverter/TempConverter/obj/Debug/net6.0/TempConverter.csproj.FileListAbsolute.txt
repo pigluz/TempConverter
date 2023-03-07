@@ -1,0 +1,15 @@
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.exe
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.deps.json
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.runtimeconfig.json
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.pdb
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.csproj.AssemblyReference.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.AssemblyInfoInputs.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.AssemblyInfo.cs
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\refint\TempConverter.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.pdb
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.genruntimeconfig.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\TempConverter\TempConverter\obj\Debug\net6.0\ref\TempConverter.dll
