@@ -20,7 +20,7 @@
             Console.WriteLine("Enter Celcius temperature: ");
             int celciusBeforeFehren = Convert.ToInt32(Console.ReadLine());
             int fehrenAfterCelcius = (int)(celciusBeforeFehren * 1.8 + 32);
-            Console.WriteLine("Your Fehrenheit temperature is: " + fehrenAfterCelcius);
+            Console.WriteLine("Your Fehrenheit temperature is: " + fehrenAfterCelcius + "°F");
 
             Thread.Sleep(500);
 
@@ -37,7 +37,7 @@
             int fehrenBeforeCelcius = Convert.ToInt32(Console.ReadLine());
             int celciusAfterFehren0 = (int)(fehrenBeforeCelcius - 32);
             int celciusAfterFehren = (int)(celciusAfterFehren0 * 0.5556);
-            Console.WriteLine("Your Celsius temperature is: " + celciusAfterFehren);
+            Console.WriteLine("Your Celsius temperature is: " + celciusAfterFehren + "°C");
 
             Thread.Sleep(500);
 
